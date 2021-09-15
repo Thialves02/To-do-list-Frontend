@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+html,body{
+    height:100%;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    margin: 100px;
+}
+
+.container p{
+    font-size:20px;
+    margin-top:15px;
+}
+
+.container img{
+    margin:  auto;
+    width:750px;
+}
